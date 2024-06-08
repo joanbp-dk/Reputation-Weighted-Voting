@@ -1,13 +1,18 @@
 # TE Academy Reputation-Weighted Voting 
 ## Course NFT Information
 
-**Last Updated:** May 10, 2024
+**Last Updated:** June 07, 2024
 
 ## Overview
+After the completion of the course, students will have the opportunity to earn a TokenEngineering Academy NFT based on points collected. Students will need a minimum of
+### 30 points collected
+awarded for completing tasks which demonstrate knowledge and skills through **activities supporting the overall learning environment**.
 
-After the completion of the course, students will have the opportunity to earn a TokenEngineering Academy NFT based on:
-* ☑️**First Criterion: In-Course Activities.** Acquisition of at least 30 course points, awarded for completing tasks which demonstrate knowledge and skills through **activities supporting the overall learning environment**.
-* ☑️**Second Criterion: Capstone Project.** This item allows the student to show their proficiency with using computational tools to thoroughly analyze features of voting algorithms, including analyzing potential weaknesses, in a professional-style report. 
+## Please create a Points Tracker spreadsheet with the following cells
+| Task # | Points earned | Description | Submitted on (date) |
+| --- | ----------- | ----------- | ----------- |
+| 01 | (Points) | Text | Date |
+| 02| (Points) | Text | Date |
 
 ## How It Works 
 
@@ -16,7 +21,7 @@ After the completion of the course, students will have the opportunity to earn a
 * :bulb: Each week, there will be activities that learners can complete.
 * :bulb: These activities range from simple skill demonstrations (e.g. perform a pull request) to major structural support (e.g. create a spreadsheet model for experimenting with voting algorithms).
 * :bulb: Each activity has a specified point value. 
-* :bulb: Learners will be responsible for keeping their own records of completed tasks. These records will be submitted at tbe end of the course for review. 
+* :bulb: Learners will be responsible for keeping their own records of completed tasks (Points Tracker spreadsheet). These records will be submitted at tbe end of the course for review. 
 * :bulb: To be eligible for the NFT, the learner must acquire a total of *at least 30 points* from completed verifiable tasks. 
 
 ### List of In-Course Activities (Projected)
@@ -36,15 +41,14 @@ Here is a list of activities that can be completed for points in the course.
 * **Point Value:** 2 points.
 
  **Task 3:**
-* **Description:** Write a summary of this session and collect all link to resources we’ve discussed. Submit a link 
-* **Availability:**  One volunteer, must be completed by May 8.
-* **Point Value:** 8 points. 
+* **Description:** Write a session summary and collect all link to resources we’ve discussed. Update the Optimism Forum post, week by week https://gov.optimism.io/t/reputation-based-weighted-voting-on-op-mainnet-te-academy/7993
+* **Availability:**  One volunteer
+* **Point Value:** 10 points. 
 
 **Task 4:** 
 * **Description:** Complete the [Week 1 Checklist](https://github.com/TE-Academy/Reputation-Weighted-Voting/blob/main/week-1-tasks-checklist.md) which provides a basis for skills useful later in the course. 
 * **Availability:**  Everyone, by May 8. 
 * **Point Value:** 2 points. 
-
 
 #### Week 2: May 8 - May 14. 
 
@@ -79,37 +83,26 @@ Here is a list of activities that can be completed for points in the course.
 * **Point Value:** 2 points. 
 
 
-
-
   
 #### Week 3: May 15 - 21
 
-* **Task [Number]:**
-* **Description:**
-* **Date Available:** 
-* **Point Value:**
+* **Task 9:** Design a Voting Mechanism, or a key design objective. Present in the study session!
+* **Date Available:** by May 15
+* **Point Value:** 8 points
 
 #### Week 4: May 22 - 28
 
-* **Task [Number]:**
-* **Description:**
-* **Date Available:** 
-* **Point Value:**
+* **Task 10:** Engage with the Discord threads
+* **Description:** Come up with a question. What would you like to verify to know that the mechanism chosen is fit for purpose? Answer on any question posted? How could we approach verification?
+* **Date Available:** by June 07
+* **Point Value:** 
+* 2 points for question in any of the above Discord threads
+* 2 points for answer to a question, in any of the above Discord threads
+* 5 points for a pull request to GitHub (your own branch or one where it is clearly welcome) with either Python code or Markdown that supports simulations and testing.
 
-#### Week 5: May 29 - June 5
+#### Week 5: May 29 - June 7
 
-* **Task [Number]:**
-* **Description:**
-* **Date Available:** 
-* **Point Value:**
-
-#### Week 6: June 6 - 11
-
-* **Task [Number]:**
-* **Description:**
-* **Date Available:** 
-* **Point Value:**
-
-
-## Description of Final Project
-
+* **Task 12:** Run a simulation
+* **Description:** Create a simulation (running your own simulation to help answer question), share the link to your Github.
+* **Date Available:** by June 07
+* **Point Value:** 20 points for a pull request to GitHub (your own branch or one where it is clearly welcome) with Python code
